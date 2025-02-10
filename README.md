@@ -1,9 +1,3 @@
-# wavIRconverter
-python script to convert  IR wav files in the extensible format to work with NAM (Neural Amp Modeler)
-
-To install the dependencies, run the following command:
-
-
 # WAV File Converter
 
 This Python script provides a Gradio web interface for converting WAV audio files while preserving their original audio properties. It uses the `soundfile`, `numpy`, and `gradio` libraries.
