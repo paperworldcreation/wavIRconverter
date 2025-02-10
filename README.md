@@ -14,7 +14,7 @@ This Python script provides a Gradio web interface for converting WAV audio file
 1.  **Clone the Repository (Optional):** If you're working with a Git repository, clone it to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/paperworldcreation/wavIRconverter.git
     ```
 
 2.  **Install Dependencies:**
