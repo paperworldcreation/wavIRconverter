@@ -30,6 +30,7 @@ This Python script provides a Gradio web interface for converting WAV audio file
     ```
 
 2.  Open your web browser and go to the URL provided in the terminal (usually `http://127.0.0.1:7860/`).
+![Wave IR Converter UI](images/wavIRconverter_screenshot.png)
 
 3. Upload one or more WAV files using the file upload component.
 
